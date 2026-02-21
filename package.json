@@ -1,0 +1,23 @@
+{
+  "name": "agent-infra-micro-edge-scanner-ai-ihr",
+  "version": "1.0.0",
+  "description": "Cloud-native scalability solution",
+  "type": "module",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "node --test"
+  },
+  "keywords": [
+    "ai",
+    "agent",
+    "infrastructure",
+    "micro-edge-scanner-ai-ihr"
+  ],
+  "author": "Yoshi Kondo <yoshi@musicailab.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yksanjo/agent-infra-micro-edge-scanner-ai-ihr.git"
+  }
+}
